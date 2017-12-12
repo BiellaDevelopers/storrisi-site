@@ -1,19 +1,25 @@
 {
   "name": "storrisi-site",
   "version": "1.0.0",
-  "description": "Personal Site of Simone Torrisi",
+  "description": "Simone Torrisi's personal Site",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BiellaDevelopers/storrisi-site.git"
   },
+  "keywords": [],
   "author": "Simone Torrisi",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/BiellaDevelopers/storrisi-site/issues"
   },
-  "homepage": "https://github.com/BiellaDevelopers/storrisi-site#readme"
+  "homepage": "https://github.com/BiellaDevelopers/storrisi-site#readme",
+  "dependencies": {
+    "next": "^4.2.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
 }

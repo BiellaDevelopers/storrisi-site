@@ -1,2 +1,7 @@
-# storrisi-site
-Personal site of Simone Torrisi
+# Personal site of Simone Torrisi
+
+# Technologies
+
+* Webpack
+* React / Redux
+* NextJs
